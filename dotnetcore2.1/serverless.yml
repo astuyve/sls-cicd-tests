@@ -25,7 +25,7 @@ provider:
   runtime: dotnetcore2.1
   lambdaHashingVersion: 20201221
   region: us-east-2
-
+# comment
 # you can overwrite defaults here
 #  stage: dev
 #  region: us-east-1
